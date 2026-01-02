@@ -1,6 +1,5 @@
 # 🦄 Decentralized Exchange (DEX) AMM Protocol
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Solidity](https://img.shields.io/badge/Solidity-0.8.19-363636.svg)
 ![Coverage](https://img.shields.io/badge/Coverage-100%25-brightgreen.svg)
 ![Tests](https://img.shields.io/badge/Tests-35%20Passing-success.svg)
@@ -182,3 +181,4 @@ dex-amm/
 *   **Solidity 0.8.x**: Built-in overflow/underflow protection.
 
 ---
+
