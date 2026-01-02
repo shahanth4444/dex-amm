@@ -182,13 +182,3 @@ dex-amm/
 *   **Solidity 0.8.x**: Built-in overflow/underflow protection.
 
 ---
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-<p align="center">
-  Built with ❤️ for the Advanced Agentic Coding Assessment
-</p>
